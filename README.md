@@ -9,7 +9,7 @@ If you like the project I would be happy about a star :)
 
 The project started with the motivation of learning python. After learning the basics with a course (100 days of code from Udemy) i wanted to program something that looks good and interests me. 
 
-After learning the basics, I decided to continue with graphical user interfaces (customTkinter) and automation. Thus the idea of the Tinderbot was born. 
+I decided to continue with graphical user interfaces (customTkinter) and automation. Thus the idea of the Tinderbot was born. 
 
 Since I am a beginner, I decided to implement it without Selenium and classes (PyAutoGui instead). In the next version I will implement it with Selenium and classes (and more functions).
 ## Built with
