@@ -1,6 +1,6 @@
 
 # Match Generator Deluxe 2024 (Tinderbot)
-If you like the project I would be happy about a ⭐:) 
+If you like the project I would be happy about a⭐:) 
 
 
 ![Logo](https://www.webhawk-design.com/wp-content/uploads/Screenshot.jpg)
