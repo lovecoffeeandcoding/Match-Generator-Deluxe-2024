@@ -17,9 +17,7 @@ set_appearance_mode("dark")
 set_default_color_theme("blue")
 
 # adjust the path and upload your own cover image
-logo = customtkinter.CTkImage(Image.open
-                              (r'C:\Users\Frambuesa\PycharmProjects\Tinderbot4\Match Generator Deluxe 2024\cover-image.jpg'),
-                              size=(600,400))
+logo = customtkinter.CTkImage(Image.open('cover-image.jpg'),size=(600,400))
 
 # master is always "window" as only one window has been created (see above)
 label = customtkinter.CTkLabel(master=window,
