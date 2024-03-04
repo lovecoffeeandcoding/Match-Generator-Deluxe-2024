@@ -5,7 +5,6 @@ import pyautogui
 from customtkinter import *
 from PIL import Image
 
-
 clicks = 0
 
 # Create window, CTk class = basis of CustomTkinter program
