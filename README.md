@@ -38,7 +38,7 @@ Since I am a beginner, I decided to implement it without Selenium and classes (P
   See the magic happen :)
 ```
 
-If 15 seconds is not enough, simply increase the number of seconds or use the version with 125 clicks to perform at least 100 automatic likes.
+If 15 seconds are not enough, simply increase the number of seconds or use the version with 125 clicks to perform at least 100 automatic likes.
     
 The bot was developed and tested for the following operating systems and browsers with the following screen resolutions:
 
