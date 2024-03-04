@@ -62,5 +62,4 @@ If you like my bot, you are welcome to support me and my work with a coffee :)
 ## Disclaimer
 
 Using automated software on Tinder is against community guidelines and might get your account banned.
-
 This software is for educational purposes only and it cannot be held accountable for any consequences you may face by having used this tool. Neither personal (banned account) nor judicial (lawsuits for privacy violations).
